@@ -1,0 +1,2 @@
+x = input("Enter the input to print in console")
+print(x)
