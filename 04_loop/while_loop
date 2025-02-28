@@ -1,0 +1,5 @@
+x=int(input("Enter the no of elements"))
+i=0
+while i<=x:
+ print("Shivank")
+ i = i+1
